@@ -52,7 +52,5 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=adrenaline404&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" /></p>
 
-👾 _Always tuning. Always learning._
-👾 _Minimalism + Performance = Art_
-
+👾 _What are you looking for, friends?._
 </div>
