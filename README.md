@@ -8,41 +8,47 @@
 
 ---
 
-### 🧠 What I Do  
+### 🧠 What I Do
 ```bash
-> Sleep 😴  
-> Drink Coffee 3 Times A Day ☕  
-> Build + Break + Fix = Fun 🚧  
+> Sleep 😴
+> Drink Coffee 3 Times A Day ☕
+> Build + Break + Fix = Fun 🚧
 ```
 
 ---
 
-### 🛠 Tools & Tech  
-![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Magisk](https://img.shields.io/badge/Magisk-green?style=for-the-badge&logo=android&logoColor=white)  
-![Systemless](https://img.shields.io/badge/Systemless-0078D6?style=for-the-badge&logo=linux&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)  
-![Experimental](https://img.shields.io/badge/Experimental-orange?style=for-the-badge&logo=flask&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)  
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Tweaks](https://img.shields.io/badge/Tweaks-blueviolet?style=for-the-badge&logo=tools&logoColor=white)  
+### 🛠 Tools & Tech
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Magisk-green?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systemless-0078D6?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experimental-orange?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tweaks-blueviolet?style=for-the-badge&logo=tools&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Adrenaline404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrenaline404&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrenaline404&layout=compact&theme=radical)  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrenaline404&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrenaline404&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-### 🤝 Let’s Connect  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+### 🤝 Let’s Connect
+<p align="center">
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ *"What are you looking for here?"*  
+⭐ *"What are you looking for here?"*
 
 </div>
