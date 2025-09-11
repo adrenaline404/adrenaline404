@@ -1,56 +1,41 @@
-<!-- Profile -->
-<div align="center">
+# Hi there 👋, I'm adrenaline404
 
-<h1 style="color:#00ffff;">Hi there ðŸ‘‹, I'm <span style="color:#1E90FF;">adrenaline404</span></h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Interested+in+Android+Development;Android+Testing+for+experimental+needs" alt="Typing Animation" />
+### Android Testing for
 
 ---
 
-### ðŸ§  What I Do
-</div>
-
-```bash
-> Sleep ðŸ«¥
-> Drink Coffee 3 Times A Day ðŸ«¥
-```
+## 🚀 What I Do
+> Sleep 😴  
+> Drink Coffee 3 Times A Day ☕
 
 ---
 
-<div align="center">
-
-### ðŸ› ï¸ Tools & Tech
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shell-Bash-blue?style=flat-square&logo=gnubash" />
-  <img src="https://img.shields.io/badge/Magisk-Systemless-green?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/Rust-Experimental-orange?style=flat-square&logo=rust" />
-  <img src="https://img.shields.io/badge/Linux-Termux-informational?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Android-Tweaks-success?style=flat-square&logo=android" />
-</p>
+## 🛠 Tools & Tech
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-00B140?style=flat&logo=magisk&logoColor=white)
+![Systemless](https://img.shields.io/badge/Systemless-5D6D7E?style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Experimental](https://img.shields.io/badge/Experimental-FF6F00?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Tweaks](https://img.shields.io/badge/Tweaks-2ECC71?style=flat)
 
 ---
 
-<div align="center">
-
-### ðŸ“ˆ GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adrenaline404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-<img src="https://github-readme-streak-stats.vercel.app?user=adrenaline404&theme=tokyonight&hide_border=true" width="400" />
-<br>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrenaline404&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=radical)
 
 ---
 
-### ðŸ”— Letâ€™s Connect
+## 🤝 Let’s Connect
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
-<a href="https://t.me/adrenaline_404"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/shfwn_31"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+---
 
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=adrenaline404&color=blue)
 
-<p><img src="https://komarev.com/ghpvc/?username=adrenaline404&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" /></p>
-
-ðŸ‘¾ _What are you looking for here?_
-</div>
+### 👀 What are you looking for here?
