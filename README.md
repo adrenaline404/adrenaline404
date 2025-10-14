@@ -10,8 +10,7 @@
 
 ### 🧠 What I Do
 ```bash
-> Drink Coffee 3 Times A Day ☕
-> Build + Break + Fix = Fun 🚧
+> Build + Break + Fix = Fun ☕
 ```
 
 ---
