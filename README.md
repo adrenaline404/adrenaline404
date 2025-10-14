@@ -48,6 +48,6 @@
 
 ---
 
-⭐ *"What are you looking for here?"*
+👾 *"Find your dream, even if it's just to survive."*
 
 </div>
