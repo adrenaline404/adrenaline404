@@ -4,13 +4,13 @@
 
 # Hi there 👋, I'm **Adrenaline404**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Android+Development;🧪+Testing+for+Experimental+Needs;☕+Coffee+is+My+Fuel;⚡+Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=⚙️+Android+Development;🧪+Testing+for+Experimental+Needs;☕+Coffee+is+My+Fuel;🍃+Always+Learning+New+Things" alt="Typing SVG" />
 
 ---
 
 ### 🧠 What I Do
 ```bash
-> Build + Break + Fix = Fun ☕
+> Build + Break + Fix = Fun 🔥
 ```
 
 ---
