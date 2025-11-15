@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi there 👋, I'm **Adrenaline404**
+# Hi there!, I'm **Adrenaline404**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=⚙️+Android+Development;🧪+Testing+for+Experimental+Needs;☕+Coffee+is+My+Fuel;🍃+Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -47,6 +47,6 @@
 
 ---
 
-👾 *"Find your dream, even if it's just to survive."*
+*"Find your dream, even if it's just to survive. :)"*
 
 </div>
