@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Adrenaline404;System.initialize(target+%3D+%22Mobile%22);Rust+%7C+Kotlin+%7C+arm64-v8a;Building+High-Performance+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adrenaline404;System.initialize(target+%3D+%22Mobile%22);Rust+%7C+Kotlin+%7C+arm64-v8a;Building+High-Performance+Apps" width="100%" style="max-width: 600px;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,15 +24,15 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true&cache_seconds=1800" width="100%" style="max-width: 450px;" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=5" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=5&cache_seconds=1800" width="100%" style="max-width: 450px;" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrenaline404&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrenaline404&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" width="100%" style="max-width: 450px;" alt="GitHub Streak" />
 </div>
 
 <br/>
