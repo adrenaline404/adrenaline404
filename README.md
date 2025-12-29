@@ -24,9 +24,9 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=5" alt="Top Languages" />
 </div>
 
 <br/>
