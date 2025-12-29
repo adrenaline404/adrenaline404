@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h3>adrenaline404</h3>
-  <p>🇮🇩</p>
+  <h3>Hi?</h3>
+  <p>Mobile Internals & Systems Engineer</p>
 </div>
 
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/adrenaline404">
+  <a href="https://github.com/adrenaline404/adrenaline404">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <br/>
