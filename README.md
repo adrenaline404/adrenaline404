@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adrenaline404;System.initialize(target+%3D+%22Mobile%22);Rust+%7C+Kotlin+%7C+arm64-v8a;Building+High-Performance+Apps" width="100%" style="max-width: 600px;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Adrenaline404;System.initialize(target+%3D+%22Mobile%22);Rust+%7C+Kotlin+%7C+arm64-v8a;Building+High-Performance+Apps" width="100%" style="max-width: 600px;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
   <br/>
   <img src="https://img.shields.io/badge/arm64--v8a-444444?style=for-the-badge&logo=android&logoColor=3DDC84" alt="arm64-v8a"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
 <br/><br/>
