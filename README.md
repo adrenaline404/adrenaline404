@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34"/>
 </div>
 
-<!-- Stats - Stacked di semua ukuran layar untuk keamanan & kerapian -->
+<!-- Stats -->
 <div align="center" style="margin: 0 auto; max-width: 520px;">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true&cache_seconds=7200" 
