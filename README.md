@@ -21,31 +21,40 @@
 <br><br>
 
 <!-- Tech Stack -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 720px; margin: 0 auto 32px;">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="34"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="34"/>
-  <img src="https://img.shields.io/badge/arm64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=black" height="34"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="34"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="34"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="34"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 800px; margin: 0 auto 40px;">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/arm64--v8a-3DDC84?style=for-the-badge&logo=android&logoColor=black" height="38"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38"/>
 </div>
 
-<!-- Stats -->
-<div align="center" style="margin: 0 auto; max-width: 520px;">
+<!-- Stats + Streak -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 900px; margin: 0 auto 40px;">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true&cache_seconds=7200" 
     alt="GitHub Stats" 
-    width="100%" 
-    style="max-width: 520px; margin-bottom: 24px;"
+    style="width: 100%; max-width: 520px;"
   />
 
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrenaline404&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=6&cache_seconds=7200" 
-    alt="Top Languages" 
-    width="100%" 
-    style="max-width: 520px;"
+    src="https://streak-stats.demolab.com/?user=adrenaline404&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakNum=58A6FF&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" 
+    alt="GitHub Streak" 
+    style="width: 100%; max-width: 480px;"
   />
+</div>
+
+<!-- Contribution Snake Animation
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-snake.svg" style="max-width: 100%;" />
+  </picture>
 </div>
 
 <br><br><br>
@@ -55,7 +64,7 @@
   <a href="https://github.com/adrenaline404">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://github.com/adrenaline404/adrenaline404">
     <img src="https://img.shields.io/badge/View+Profile-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/>
   </a>
