@@ -20,7 +20,6 @@
 
 <br><br>
 
-<!-- Tech Stack -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 800px; margin: 0 auto 40px;">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="38"/>
@@ -31,32 +30,24 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38"/>
 </div>
 
-<!-- Stats + Streak -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 900px; margin: 0 auto 40px;">
+<div align="center" style="max-width: 900px; margin: 0 auto 40px;">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrenaline404&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=00000000&hide_border=true&cache_seconds=7200" 
     alt="GitHub Stats" 
     style="width: 100%; max-width: 520px;"
   />
-
-  <img 
-    src="https://streak-stats.demolab.com/?user=adrenaline404&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakNum=58A6FF&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" 
-    alt="GitHub Streak" 
-    style="width: 100%; max-width: 480px;"
-  />
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 900px; margin: 0 auto 40px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/adrenaline404/adrenaline404/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
 
 <br><br><br>
 
-<!-- Footer -->
 <div align="center">
   <a href="https://github.com/adrenaline404">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
